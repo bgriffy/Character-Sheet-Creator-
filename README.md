@@ -1,4 +1,4 @@
-**Note: I am not allowed to make the code for this project public in accordance with university policy. This is to prevent other college students from plagarizing. But, for prospective employers, I would be more than happy to send you the code personally.
+**Note: Since this application was created for a school project, I am not allowed to make the code public in accordance with university policy. This is to prevent other college students from plagarizing. But, for prospective employers, I would be more than happy to send you the code personally.
 
 # D&D Character Utilities
 
